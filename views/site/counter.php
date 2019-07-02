@@ -1,0 +1,1 @@
+<!-- place counters into counter.php -->
